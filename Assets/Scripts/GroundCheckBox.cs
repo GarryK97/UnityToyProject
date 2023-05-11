@@ -30,7 +30,7 @@ public class GroundCheckBox : MonoBehaviour
             PlayerState.isFalling = false;
             MidAirTime = 0;
 
-            //Debug.Log("This is test");
+            //Debug.Log("This is second test");
         }
     }
 
