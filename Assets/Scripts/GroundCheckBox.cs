@@ -29,6 +29,8 @@ public class GroundCheckBox : MonoBehaviour
             PlayerState.isMidAir = false;
             PlayerState.isFalling = false;
             MidAirTime = 0;
+
+            //Debug.Log("This is test");
         }
     }
 
